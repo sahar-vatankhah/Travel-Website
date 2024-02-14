@@ -4,6 +4,30 @@
   }
 
 
+  /* /Contact/ */
+
+
+  .back1{
+    
+    background-image: url(../img/Contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    min-height: 600px;
+    /* opacity: 70%; */
+  }  
+
+
+
+.textarea{
+  height: 100px !important;
+}
+
+.Callus{
+  background: #005689;
+}
+
+
   /* /footer/ */
 
   .footer-bg{
@@ -16,3 +40,6 @@
     bottom: 15px;
     z-index: 3;
   }
+
+
+
