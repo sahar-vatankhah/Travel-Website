@@ -27,12 +27,35 @@
   background: #005689;
 }
 
+/* /Cards/  */
+.clap {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: -60px;
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.clap2:hover .clap {
+  bottom: 0;
+  opacity: 1;
+}
+
+
+
+
 
   /* /footer/ */
 
   .footer-bg{
     background: #005689;
   }
+  .a_footer a > i {
+    font-size: 0.7rem;
+    padding-right: 4px;
+  }
+  
 
   .back_up{
     position: fixed;
@@ -40,6 +63,10 @@
     bottom: 15px;
     z-index: 3;
   }
+
+
+
+
 
 
 
