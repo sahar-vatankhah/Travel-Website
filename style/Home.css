@@ -109,6 +109,18 @@
     padding-right: 4px;
   }
   
+  .a_footer a:hover{
+    transform: scale(1.1);
+    color: aliceblue;
+  transition: all 0.5s;
+  }
+
+.signup:hover{
+  background-color: aliceblue;
+  transition: all 0.5s;
+
+}
+
 
   .back_up{
     position: fixed;
