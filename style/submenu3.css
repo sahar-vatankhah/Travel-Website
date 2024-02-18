@@ -122,7 +122,7 @@
   .navbar .navbar-nav .nav-link {
   margin-left: 25px;
   padding: 10px 0px;
-  color: rgb(93, 115, 110);
+  color: #5d736e;
   font-weight: 500;
   outline: none;
   }
@@ -133,8 +133,6 @@
   
   .navbar .dropdown-toggle::after {
   border: none;
-  content: "";
-  font-family: "Font Awesome 5 Free";
   font-weight: 900;
   vertical-align: middle;
   margin-left: 8px;
