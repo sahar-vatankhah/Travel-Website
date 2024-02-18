@@ -37,14 +37,26 @@
       background-image: url("./img/h.jpg"); 
       center center no-repeat;
       background-size: cover;
-      background-position-y: 25%;
+      background-position-y: 15%;
       width: 100%;
       height: 1080;
       background-filter: blure(5);
   }
   
-  .h1{
-      font-weight: 600; 
+.lio{
+  position: absolute;
+  top: -50px;
+}
+
+.bg11{
+  background: #005689;
+
+}
+
+  .h1, h1{
+      font-weight: 600;
+  color: #005689;
+
   }
   
   .img64{
