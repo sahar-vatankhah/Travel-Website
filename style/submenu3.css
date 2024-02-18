@@ -8,9 +8,7 @@
     color: #696E77;
     background-color: #fff;
   }
-  
-  
-  
+
   .bg-dark {
     background-color: #15233C !important;
   }
@@ -25,16 +23,6 @@
     color: #ffffff80 !important;
   }
   
-  .px-0 {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-  }
-  
-  .py-2 {
-    padding-top: 0.5rem !important;
-    padding-bottom: 0.5rem !important;
-  }
-  
   .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl, .container-xxl {
     width: 100%;
     padding-right: var(.75rem);
@@ -47,8 +35,7 @@
     box-sizing: border-box;
   }
   
-  
-  .back-to-top {
+.back-to-top {
     position: fixed;
     display: none;
     right: 30px;
@@ -56,7 +43,6 @@
     z-index: 99;
   }
   
-
 .btn {
     transition: 0.5s;
   }
@@ -79,7 +65,7 @@
     background: #015fc9;
     border-color: #015fc9;
   }
-  
+
   .btn-square {
     width: 38px;
     height: 38px;
@@ -94,7 +80,6 @@
     width: 48px;
     height: 48px;
   }
-  
   .btn-square,
   .btn-sm-square,
   .btn-lg-square {
@@ -104,7 +89,6 @@
     justify-content: center;
     font-weight: normal;
   }
-  
   
   h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {
     margin-top: 0;
@@ -191,7 +175,6 @@
   }
   }
   
-  
   .page-header {
   background: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/da/83/f6/caption.jpg?w=2400&h=-1&s=1&cx=1920&cy=1080&chk=v1_b44480a444054475e498") center center / cover no-repeat;
   } 
@@ -207,9 +190,7 @@
   .page-header .breadcrumb-item a:hover, .page-header .breadcrumb-item.active {
   color: var(--primary);
   }
-  
 
-  
   .team-item {
     position: relative;
     overflow: hidden;
@@ -248,8 +229,6 @@
     border-color: #015fc9;
   }
   
-  
-  
   .img-fluid {
     max-width: 100%;
   
@@ -260,10 +239,6 @@
   
   } 
   
-  
-  
-  
-  
   .footer-bg{
     background: #15233c;
   }
@@ -289,7 +264,6 @@
   transition: all 0.5s;
   
   }
-  
   
   .back_up{
     position: fixed;
@@ -298,7 +272,6 @@
     z-index: 3;
   }
   
-  
   .footer-bg{
     background: #15233c;
   }
@@ -324,9 +297,8 @@
   transition: all 0.5s;
   
   }
-  
-  
-  .back_up{
+
+.back_up{
     position: fixed;
     right: 30px;
     bottom: 15px;
