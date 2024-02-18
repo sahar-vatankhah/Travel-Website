@@ -24,3 +24,16 @@
 h2 {
     color: #005689;
 }
+
+/* /footer/ */
+
+.footer-bg{
+    background: #005689;
+  }
+
+  .back_up{
+    position: fixed;
+    right: 30px;
+    bottom: 15px;
+    z-index: 3;
+  }
