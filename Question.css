@@ -124,3 +124,32 @@
     .team-item:hover .aboutimg{
       transform: scale(1.1);
     }
+ /* /footer/ */
+
+ .footer-bg{
+  background: #005689;
+}
+.a_footer a > i {
+  font-size: 0.7rem;
+  padding-right: 4px;
+}
+
+.a_footer a:hover{
+  transform: scale(1.1);
+  color: aliceblue;
+transition: all 0.5s;
+}
+
+.signup:hover{
+background-color: aliceblue;
+transition: all 0.5s;
+
+}
+
+
+.back_up{
+  position: fixed;
+  right: 30px;
+  bottom: 15px;
+  z-index: 3;
+}
