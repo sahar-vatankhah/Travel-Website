@@ -1,0 +1,49 @@
+
+* {
+ 
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  
+}
+.img1 {
+  width: 100%;
+  height:500px;
+}
+.navbar-bg1 {
+  background: #005689;
+
+
+}
+.para {
+ display: block;
+}
+.navbar-bg {
+    background: #005689;
+}
+.option {
+  margin: 4rem 0rem;
+}
+.bg-big {
+  background: #ff895d;
+}
+.bg-box {
+  background: #d5eeff;
+}
+.img-size {
+  width: 100px;
+  height: 100px;
+}
+/* /footer/ */
+
+.footer-bg{
+    background: #005689;
+  }
+
+  .back_up{
+    position: fixed;
+    right: 30px;
+    bottom: 15px;
+    z-index: 3;
+  }

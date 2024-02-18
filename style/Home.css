@@ -1,0 +1,137 @@
+/* /Navbar/ */
+.navbar-bg{
+    background: #005689;
+  }
+
+
+  /* /Contact/ */
+
+
+  .back1{
+    
+    background-image: url(../img/Contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    min-height: 600px;
+    /* opacity: 70%; */
+  }  
+
+
+
+.textarea{
+  height: 100px !important;
+}
+
+.Callus{
+  background: #005689;
+}
+
+/* /Cards/  */
+.clap {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: -60px;
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.clap2:hover .clap {
+  bottom: 0;
+  opacity: 1;
+}
+
+/* /TRAVEL BACKPACK/ */
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.pulsing-image {
+  animation: pulse 2s infinite;
+}
+
+.width_littlesquare {
+  width: 100px;
+  height: 100px;
+}
+
+.gap {
+  row-gap: 3rem;
+}
+
+
+.testimonial-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 15%;
+  margin-bottom: 20px;
+}
+
+.carousel-item {
+
+  text-align: center;
+}
+
+.testimonial-text {
+  margin-top: 20px; 
+  margin-bottom: 10px; 
+}
+.testimonial-name {
+  margin-bottom: 0;
+}
+
+.carousel_button button {
+  width: 45px;
+  height: 45px;
+
+}
+
+
+
+
+  /* /footer/ */
+
+  .footer-bg{
+    background: #005689;
+  }
+  .a_footer a > i {
+    font-size: 0.7rem;
+    padding-right: 4px;
+  }
+  
+  .a_footer a:hover{
+    transform: scale(1.1);
+    color: aliceblue;
+  transition: all 0.5s;
+  }
+
+.signup:hover{
+  background-color: aliceblue;
+  transition: all 0.5s;
+
+}
+
+
+  .back_up{
+    position: fixed;
+    right: 30px;
+    bottom: 15px;
+    z-index: 3;
+  }
+
+
+
+
+
+
+
