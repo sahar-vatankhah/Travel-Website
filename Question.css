@@ -34,10 +34,10 @@
   
   
   .pageheader{
-      background-image: url("https://img.freepik.com/free-photo/redhead-girl-tourist-explores-city-looks-paper-map-find-way-historical-landmarks-woman_1258-196421.jpg?w=996&t=st=1707651068~exp=1707651668~hmac=e0e08c22e429c6adba128ced59b90f09d431b99e7d578a26949f3ea1b0813e42"); 
+      background-image: url("./img/h.jpg"); 
       center center no-repeat;
       background-size: cover;
-      background-position-y: 15%;
+      background-position-y: 25%;
       width: 100%;
       height: 1080;
       background-filter: blure(5);
@@ -121,6 +121,6 @@
       bottom: 0;
       opacity: 1;
     }
-    .team-item:hover .team-item img{
+    .team-item:hover .aboutimg{
       transform: scale(1.1);
     }
